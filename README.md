@@ -1,5 +1,4 @@
-## Authors
-Rohit M Patil
+
 
 ## Description
 Implementation of A* Algorithm to find a path between start and end point on a given map for a robot (radius = user input; clearance = 10 mm). Checks the feasibility of all inputs/outputs (if user gives start and goal nodes that are in the obstacle space they will be informed by a message and they should try again). Code outputs an animation/video of optimal path generation between start and goal point on the map. It shows both the node exploration as well as the optimal path generated.
